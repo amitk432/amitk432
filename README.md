@@ -3,7 +3,7 @@
 
 **__http://amitkumar.codes__**
 
- - I’m currently a Engineering Student @MSIT :books:
+ - I’m currently a Student of Engineering @MSIT :books:
  - I’m currently learning Web Development.
  - You can reach me: amitkumar0432@gmail.com :email:
 
