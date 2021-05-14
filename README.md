@@ -5,7 +5,7 @@
 
  - I’m currently a Student of Engineering @MSIT :books:
  - I’m currently learning Web Development.
- - You can reach me: amitkumar0432@gmail.com :email:
+ - You can reach me through: amitkumar0432@gmail.com :email:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=amitk432" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitk432" />
