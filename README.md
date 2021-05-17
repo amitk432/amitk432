@@ -1,7 +1,7 @@
 :fire: Hi I'm **AmiT Kumar**
 :gemini:
 
-**__http://amitkumar.codes__**
+   **__http://amitkumar.codes__**
 
  - I’m currently a Student of Engineering @MSIT :books:
  - I’m currently learning Web Development.
