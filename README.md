@@ -4,7 +4,7 @@
    **__http://amitkumar.codes__**
 
  - I’m currently a Student of Engineering @MSIT :books:
- - I’m currently learning Web Development.
+ - I’m currently learning JavaScript, ReactJS, Node.
  - You can reach me through: amitkumar0432@gmail.com :email:
  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitk432" />
