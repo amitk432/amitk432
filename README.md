@@ -1,4 +1,4 @@
-:fire: Hi I'm **AmiT Kumar** 🇮🇳
+:fire: Hi I'm **AmiT Kumar**
 :gemini:
 
    **__http://amitkumar.codes__**
