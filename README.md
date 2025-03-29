@@ -1,7 +1,7 @@
 # 🔥 Hi, I'm **Amit Kumar**  
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amitkumar-kellton&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amitk432&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -18,15 +18,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumar-kellton&layout=compact&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitk432&layout=compact&theme=nightowl" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitkumar-kellton&show_icons=true&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitk432&show_icons=true&theme=nightowl" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitkumar-kellton&theme=nightowl" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitk432&theme=nightowl" alt="GitHub Streak" />
 </p>
 
 ---
@@ -34,5 +34,5 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitkumar-kellton&column=4&margin-w=15&margin-h=15&no-frame=true&theme=buddhism" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amitk432&column=4&margin-w=15&margin-h=15&no-frame=true&theme=buddhism" />
 </p>
