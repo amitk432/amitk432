@@ -7,10 +7,10 @@
 ---
 
 ### 📚 About Me  
-- 🎓 I’m currently an **Engineering Student @MSIT**  
-- 🚀 Learning **React.js, Node.js, Express.js**  
+- 🎓 I’m currently working for **Kellton Tech** as **Software Quality Analyst** 
+- 🚀 Expertise: **Web Automation, API Automation, Mobile App Automation, Manual Testing**  
 - 📫 Reach me at: **amitkumar0432@gmail.com**  
-- 🌐 **[Portfolio](https://amitkumar.codes)**  
+- 🌐 **[LinkedIn](www.linkedin.com/in/amitkumar0432)**  
 
 ---
 
