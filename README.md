@@ -16,12 +16,12 @@
 
 ### 📊 GitHub Stats  
 
-<p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=amitk432&theme=nightowl" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitk432&layout=compact&theme=nightowl" />
 </p>
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitk432&layout=compact&theme=nightowl" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=amitk432&theme=nightowl" />
 </p>
 
 <p align="left">
